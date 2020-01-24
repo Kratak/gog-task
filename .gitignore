@@ -11,6 +11,9 @@
 # production
 /build
 
+# webstorm plugins
+/.idea
+
 # misc
 .DS_Store
 .env.local
